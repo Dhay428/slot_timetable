@@ -1,5 +1,7 @@
 # Ex03 Time Table
-## Date:
+## Name: S.DHAYALAPRABU
+## Reg No: 212224230065
+## Date: 02/11/2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -131,10 +133,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-
-<img width="1904" height="1088" alt="Screenshot 2025-10-25 104253" src="https://github.com/user-attachments/assets/f0821453-3b76-4d53-881c-923ead0e5c58" />
-
-
+<img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/bef8f460-3f35-4cdc-932e-6c0bb70d2fb5" />
 
 
 
